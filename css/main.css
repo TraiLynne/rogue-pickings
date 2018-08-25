@@ -178,6 +178,27 @@ textarea {
 
 /* Footer */
 
+footer h4 {
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+footer span {
+    text-transform: lowercase;
+    font-family: 'Pacifico', cursive;
+    color: #82a974;
+}
+
+#copyright {
+    text-align: center;
+}
+
+#copyright i {
+    color: #82a974;
+}
+
 
 /* ==========================================================================
    Helper classes
