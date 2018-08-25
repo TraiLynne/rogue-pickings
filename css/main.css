@@ -109,6 +109,22 @@ textarea {
 
 /* Header */
 
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-brand span {
+    color: #82a974;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #82a974;
+    text-transform: uppercase;
+}
+
 
 /* Hero */
 
