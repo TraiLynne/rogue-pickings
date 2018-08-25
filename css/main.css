@@ -128,6 +128,12 @@ textarea {
 
 /* Hero */
 
+#hero img {
+    width: 100%;
+    border-top: 5px solid #82a974;
+    border-bottom: 5px solid #82a974;
+}
+
 
 /* Content */
 
